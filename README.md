@@ -15,4 +15,4 @@ For other bindings to Growl, check [here](http://growl.info/documentation/develo
 ### Configuration
 Edit the live_notify.py file and update your key, and edit the paths to match the directories with your sound files, and then configure Growl!
 
-The only thing you need to do is schedule the python file.  I use GNU watch with a delay of 10 seconds, but you cna use cron.  Test the configureation first and run it form the comnand line before you schedule it to make siure it works.
+The only thing you need to do is schedule the python file.  I use GNU watch with a delay of 10 seconds, but you can use cron.  Test the configuration first and run it form the comnand line before you schedule, insuring that it functions correctly.
