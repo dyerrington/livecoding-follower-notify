@@ -8,7 +8,9 @@ A channel follower notification utility I wrote for livecoding.tv.  It will pop 
 *  Some sound clips
 *  Feedparser (pip install feedparser)
 *  Pandas (pip install pandas)
+*  [gntp](https://github.com/kfdm/gntp/) (pip install gntp)
 
+For other bindings to Growl, check [here](http://growl.info/documentation/developer/bindings.php)
 
 ### Configuration
 Edit the live_notify.py file and update your key, and edit the paths to match the directories with your sound files, and then configure Growl!
