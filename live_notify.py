@@ -6,7 +6,7 @@ import gntp.notifier
 
 logging.basicConfig(level=logging.INFO)
 
-rss_feed    =   "https://www.livecoding.tv/rss/dyerrington/followers/?key=MYYtpMLahGj3lCyq"
+rss_feed    =   "https://www.livecoding.tv/rss/dyerrington/followers/?key=[your key here]"
 feed        =   feedparser.parse(rss_feed)
 
 users       =   []

@@ -11,4 +11,4 @@ A channel follower notification utility I wrote for livecoding.tv.  It will pop 
 
 
 ### Configuration
-
+Edit the live_notify.py file and update your key, and edit the paths to match the directories with your sound files, and then configure Growl!
