@@ -57,7 +57,7 @@ for username in new_users:
         priority = 1
     )
 
-    subprocess.call(['/Users/davidyerrington/play_random.sh'])
+    subprocess.call(['./play_random.sh'])
     time.sleep(10)
 
 # serialize new feed data if we've already displayed it
